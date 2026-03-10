@@ -1,0 +1,408 @@
+{
+  "restaurant_marketing": {
+    "query": "restaurant marketing strategy B2B food service 2025",
+    "videos": [
+      {
+        "video_id": "KtX1srhbC2k",
+        "url": "https://www.youtube.com/watch?v=KtX1srhbC2k",
+        "title": "12 B2B Marketing Strategies For 2025",
+        "channel": "Instantly",
+        "views": 31075,
+        "likes": 889,
+        "duration_min": 20.3,
+        "source_type": "youtube",
+        "credibility_score": 0.98,
+        "score": 64.1,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.0,
+          "relevance": 7.7,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 19.6
+        }
+      },
+      {
+        "video_id": "fj7cmY-El-c",
+        "url": "https://www.youtube.com/watch?v=fj7cmY-El-c",
+        "title": "Social Media Marketing for Restaurants (Free Course)",
+        "channel": "Flick - Social Media Marketing Platform",
+        "views": 35651,
+        "likes": 1319,
+        "duration_min": 43.8,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 62.5,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.8,
+          "relevance": 5.1,
+          "recency": 7.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "HjUJf5bKCpU",
+        "url": "https://www.youtube.com/watch?v=HjUJf5bKCpU",
+        "title": "Full Social Media Marketing Strategy In 8 Minutes | GaryVee Q&A Session",
+        "channel": "GaryVee",
+        "views": 293406,
+        "likes": 5996,
+        "duration_min": 8.0,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 58.7,
+        "score_breakdown": {
+          "views": 2.0,
+          "channel": 6.6,
+          "relevance": 5.1,
+          "recency": 7.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "FpneNEDON_U",
+        "url": "https://www.youtube.com/watch?v=FpneNEDON_U",
+        "title": "Sales & Marketing Strategy For Service Based Business",
+        "channel": "Adam Erhart",
+        "views": 394431,
+        "likes": 10024,
+        "duration_min": 10.8,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 57.3,
+        "score_breakdown": {
+          "views": 2.0,
+          "channel": 5.4,
+          "relevance": 7.7,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "ZvChhHNTz1g",
+        "url": "https://www.youtube.com/watch?v=ZvChhHNTz1g",
+        "title": "6 Effective Marketing Strategies for 2025 to grow ANY Business | Rajiv Talreja",
+        "channel": "Rajiv Talreja",
+        "views": 358264,
+        "likes": 6621,
+        "duration_min": 7.6,
+        "source_type": "youtube",
+        "credibility_score": 0.94,
+        "score": 53.2,
+        "score_breakdown": {
+          "views": 2.0,
+          "channel": 5.0,
+          "relevance": 5.1,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 18
+  },
+  "landing_page_conversion": {
+    "query": "landing page conversion optimization best practices SaaS",
+    "videos": [
+      {
+        "video_id": "vwhR2M0SQtI",
+        "url": "https://www.youtube.com/watch?v=vwhR2M0SQtI",
+        "title": "The Best Landing Page Structure for 2026",
+        "channel": "Arsh Sanwarwala | ThrillX",
+        "views": 10889,
+        "likes": 490,
+        "duration_min": 17.0,
+        "source_type": "youtube",
+        "credibility_score": 0.824,
+        "score": 67.8,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.1,
+          "relevance": 7.7,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 16.5
+        }
+      },
+      {
+        "video_id": "YkxGTwbRQ9w",
+        "url": "https://www.youtube.com/watch?v=YkxGTwbRQ9w",
+        "title": "How To Increase Conversions With Design",
+        "channel": "Flux Academy",
+        "views": 26567,
+        "likes": 1469,
+        "duration_min": 11.1,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 66.5,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 5.6,
+          "relevance": 7.7,
+          "recency": 4.2,
+          "engagement": 12.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "5p295gNPYGE",
+        "url": "https://www.youtube.com/watch?v=5p295gNPYGE",
+        "title": "How to Run a Google Ads A/B Test for Landing Pages (Fast 5-Minute Guide)",
+        "channel": "The Conversion Clinic \u2014 by JRR Marketing",
+        "views": 2796,
+        "likes": 37,
+        "duration_min": 5.0,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 64.5,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 4.4,
+          "relevance": 5.1,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "RdDzuZtmasg",
+        "url": "https://www.youtube.com/watch?v=RdDzuZtmasg",
+        "title": "10 Best SaaS Landing Page Examples for More Leads",
+        "channel": "SeedProd",
+        "views": 1130,
+        "likes": 10,
+        "duration_min": 8.0,
+        "source_type": "youtube",
+        "credibility_score": 0.906,
+        "score": 55.0,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.4,
+          "relevance": 12.9,
+          "recency": 4.2,
+          "engagement": 2.4,
+          "transcript": 12.0,
+          "credibility": 18.1
+        }
+      },
+      {
+        "video_id": "ciNN1IpeVyA",
+        "url": "https://www.youtube.com/watch?v=ciNN1IpeVyA",
+        "title": "Build The PERFECT Homepage with High Conversion Web Design",
+        "channel": "HubSpot Marketing",
+        "views": 79086,
+        "likes": 2001,
+        "duration_min": 7.8,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 53.6,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 5.3,
+          "relevance": 2.6,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 17
+  },
+  "portfolio_design": {
+    "query": "portfolio showcase design UX how many examples optimal",
+    "videos": [
+      {
+        "video_id": "sFY1_tEXcOs",
+        "url": "https://www.youtube.com/watch?v=sFY1_tEXcOs",
+        "title": "How to design a creative portfolio | resources, personal branding, tips & tricks",
+        "channel": "edgykatrina",
+        "views": 66794,
+        "likes": 4961,
+        "duration_min": 14.6,
+        "source_type": "youtube",
+        "credibility_score": 0.826,
+        "score": 69.0,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.3,
+          "relevance": 6.8,
+          "recency": 14.0,
+          "engagement": 12.0,
+          "transcript": 12.0,
+          "credibility": 16.5
+        }
+      },
+      {
+        "video_id": "PNG0Qvl-PdQ",
+        "url": "https://www.youtube.com/watch?v=PNG0Qvl-PdQ",
+        "title": "How I'd Build A JOB READY UI/UX Design Portfolio In 2026. [FULL GUIDE]",
+        "channel": "Saptarshi Prakash",
+        "views": 112582,
+        "likes": 4015,
+        "duration_min": 19.2,
+        "source_type": "youtube",
+        "credibility_score": 0.85,
+        "score": 65.4,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.5,
+          "relevance": 9.0,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 17.0
+        }
+      },
+      {
+        "video_id": "bH-tB-qxypI",
+        "url": "https://www.youtube.com/watch?v=bH-tB-qxypI",
+        "title": "Writing UX Design Case Study: Step by Step Process for UX/UI Portfolios | UX Course for Beginners",
+        "channel": "The Cutting Edge School",
+        "views": 137433,
+        "likes": 6423,
+        "duration_min": 11.9,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 61.4,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 5.4,
+          "relevance": 6.8,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "zMGah34LgnU",
+        "url": "https://www.youtube.com/watch?v=zMGah34LgnU",
+        "title": "Showcases: the new portfolio case study",
+        "channel": "femke.design",
+        "views": 55479,
+        "likes": 2697,
+        "duration_min": 10.7,
+        "source_type": "youtube",
+        "credibility_score": 0.807,
+        "score": 56.9,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.2,
+          "relevance": 4.5,
+          "recency": 7.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 16.1
+        }
+      },
+      {
+        "video_id": "0VGc7jrD9zo",
+        "url": "https://www.youtube.com/watch?v=0VGc7jrD9zo",
+        "title": "GOOD Vs BAD Design Portfolios (With Examples)",
+        "channel": "Flux Academy",
+        "views": 333251,
+        "likes": 9871,
+        "duration_min": 9.1,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 52.1,
+        "score_breakdown": {
+          "views": 2.0,
+          "channel": 5.6,
+          "relevance": 2.2,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 18
+  },
+  "social_proof_placement": {
+    "query": "social proof placement landing page testimonials conversion",
+    "videos": [
+      {
+        "video_id": "1CP2XpwWCAk",
+        "url": "https://www.youtube.com/watch?v=1CP2XpwWCAk",
+        "title": "Landing Page Best Practice for HIGH Conversions in Google Ads  - Real EXAMPLE of a Redesign",
+        "channel": "Ryan @ Web Eminence",
+        "views": 2083,
+        "likes": 75,
+        "duration_min": 13.6,
+        "source_type": "youtube",
+        "credibility_score": 0.829,
+        "score": 56.2,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.1,
+          "relevance": 7.7,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 16.6
+        }
+      },
+      {
+        "video_id": "WOuwBFdDBVw",
+        "url": "https://www.youtube.com/watch?v=WOuwBFdDBVw",
+        "title": "How to Install Useproof.com on Your Website (Awesome Social Proof Software!)",
+        "channel": "Ivan Mana",
+        "views": 3421,
+        "likes": 43,
+        "duration_min": 13.0,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 54.7,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 4.3,
+          "relevance": 5.1,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "tIteRLz7Iac",
+        "url": "https://www.youtube.com/watch?v=tIteRLz7Iac",
+        "title": "7 Creative Ways to Display Testimonials on Your Website",
+        "channel": "Testimonial",
+        "views": 1546,
+        "likes": 11,
+        "duration_min": 7.0,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 50.4,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 0.8,
+          "relevance": 5.1,
+          "recency": 7.0,
+          "engagement": 2.4,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 22
+  }
+}

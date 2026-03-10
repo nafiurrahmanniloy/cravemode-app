@@ -1,0 +1,28 @@
+{
+  "mcpServers": {
+    "figma": {
+      "command": "npx",
+      "args": ["-y", "figma-developer-mcp", "--stdio"],
+      "env": {
+        "FIGMA_API_KEY": "your_figma_api_key_here"
+      }
+    },
+    "notebooklm": {
+      "command": "/Users/nafiurrahman/.nvm/versions/node/v24.13.0/bin/notebooklm-mcp",
+      "args": []
+    },
+    "stitchai": {
+      "command": "npx",
+      "args": ["ts-node", "/Users/nafiurrahman/.claude/mcp-servers/stitch-ai-mcp/src/server.ts"],
+      "env": {
+        "API_KEY": "your_stitch_api_key_here",
+        "BASE_URL": "https://api-demo.stitch-ai.co"
+      }
+    },
+    "recon": {
+      "command": "/Users/nafiurrahman/Desktop/Foodshot/recon-researcher/.venv/bin/python",
+      "args": ["-m", "src.server"],
+      "cwd": "/Users/nafiurrahman/Desktop/Foodshot/recon-researcher"
+    }
+  }
+}

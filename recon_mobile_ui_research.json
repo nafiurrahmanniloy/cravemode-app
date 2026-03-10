@@ -1,0 +1,209 @@
+{
+  "dark_mode_ui": {
+    "query": "premium dark mode mobile app UI design 2025 2026 glassmorphism",
+    "videos": [
+      {
+        "video_id": "XX2gZTGwZWc",
+        "url": "https://www.youtube.com/watch?v=XX2gZTGwZWc",
+        "title": "UX/UI Design Trends 2025",
+        "channel": "DesignSense",
+        "views": 182047,
+        "likes": 5905,
+        "duration_min": 12.1,
+        "source_type": "youtube",
+        "credibility_score": 0.86,
+        "score": 57.7,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.8,
+          "relevance": 3.6,
+          "recency": 7.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 17.2
+        }
+      },
+      {
+        "video_id": "B7k5rOgmOGY",
+        "url": "https://www.youtube.com/watch?v=B7k5rOgmOGY",
+        "title": "EVERYTHING you need to know to build a Dashboard UI in 8 minutes (beginner friendly)",
+        "channel": "Kole Jain",
+        "views": 197626,
+        "likes": 8538,
+        "duration_min": 8.4,
+        "source_type": "youtube",
+        "credibility_score": 0.714,
+        "score": 56.5,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 3.7,
+          "relevance": 3.6,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 14.3
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 23
+  },
+  "food_app_ux": {
+    "query": "food photography app UI UX design mobile best practices",
+    "videos": [],
+    "total_candidates": 25,
+    "filtered_out": 25
+  },
+  "rn_animations": {
+    "query": "react native reanimated premium animations micro interactions 2025",
+    "videos": [],
+    "total_candidates": 1,
+    "filtered_out": 1
+  },
+  "glassmorphism": {
+    "query": "glassmorphism liquid glass mobile app design implementation iOS",
+    "videos": [
+      {
+        "video_id": "3aq1IwouLG0",
+        "url": "https://www.youtube.com/watch?v=3aq1IwouLG0",
+        "title": "Best Way To Create Similar Apple\u2019s Liquid Glass Effect in Figma | Tutorial",
+        "channel": "Sergei Chyrkov",
+        "views": 46886,
+        "likes": 1832,
+        "duration_min": 7.2,
+        "source_type": "youtube",
+        "credibility_score": 0.85,
+        "score": 63.1,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.0,
+          "relevance": 6.8,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 17.0
+        }
+      },
+      {
+        "video_id": "NMCQOBIwW2M",
+        "url": "https://www.youtube.com/watch?v=NMCQOBIwW2M",
+        "title": "How to adopt Liquid Glass in an Expo app",
+        "channel": "Expo",
+        "views": 29477,
+        "likes": 646,
+        "duration_min": 20.4,
+        "source_type": "youtube",
+        "credibility_score": 0.711,
+        "score": 61.7,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.8,
+          "relevance": 6.8,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 14.2
+        }
+      },
+      {
+        "video_id": "aF2qt5WfprM",
+        "url": "https://www.youtube.com/watch?v=aF2qt5WfprM",
+        "title": "Liquid Glass - 5 Things You MUST Know Before Implementing",
+        "channel": "Sean Allen",
+        "views": 66073,
+        "likes": 1959,
+        "duration_min": 9.4,
+        "source_type": "youtube",
+        "credibility_score": 0.851,
+        "score": 59.6,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.5,
+          "relevance": 6.8,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 17.0
+        }
+      },
+      {
+        "video_id": "QWobJCcTn0A",
+        "url": "https://www.youtube.com/watch?v=QWobJCcTn0A",
+        "title": "How to Create Apple\u2019s Liquid Glass Effect in Figma (2025) | iOS Glassmorphism UI Design Tutorial",
+        "channel": "Nehmat Gereige | Design Professor",
+        "views": 1851,
+        "likes": 37,
+        "duration_min": 11.5,
+        "source_type": "youtube",
+        "credibility_score": 0.772,
+        "score": 59.6,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.1,
+          "relevance": 11.2,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 15.4
+        }
+      },
+      {
+        "video_id": "bC55sDf-h4E",
+        "url": "https://www.youtube.com/watch?v=bC55sDf-h4E",
+        "title": "Liquid Glass Effect in Canva (Eye-Catching & Easy!)",
+        "channel": "UBMD",
+        "views": 24439,
+        "likes": 535,
+        "duration_min": 6.6,
+        "source_type": "youtube",
+        "credibility_score": 0.733,
+        "score": 57.2,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.0,
+          "relevance": 6.8,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 14.7
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 20
+  },
+  "ai_creative_apps": {
+    "query": "AI photo editing app mobile design UX Remini Lensa VSCO 2025",
+    "videos": [],
+    "total_candidates": 0,
+    "filtered_out": 0
+  },
+  "tab_bar_design": {
+    "query": "mobile bottom tab bar custom design patterns animation 2025",
+    "videos": [
+      {
+        "video_id": "wLJ40GV2XEc",
+        "url": "https://www.youtube.com/watch?v=wLJ40GV2XEc",
+        "title": "Top UI/UX Design Tips - How to Design a Great Bottom Mobile Navigation Bar",
+        "channel": "uxpeak",
+        "views": 146301,
+        "likes": 6570,
+        "duration_min": 23.8,
+        "source_type": "youtube",
+        "credibility_score": 0.722,
+        "score": 61.4,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.1,
+          "relevance": 8.0,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 14.4
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 24
+  }
+}

@@ -1,0 +1,1194 @@
+{
+  "nextjs_security_headers": {
+    "query": "Next.js security headers configuration HSTS CSP X-Frame-Options 2025 2026",
+    "videos": [],
+    "total_candidates": 0,
+    "filtered_out": 0
+  },
+  "nextjs_canonical_tags": {
+    "query": "Next.js canonical tags metadata API app router SEO best practices",
+    "videos": [
+      {
+        "video_id": "cgq_HsDduSQ",
+        "url": "https://www.youtube.com/watch?v=cgq_HsDduSQ",
+        "title": "NextJS 16 SEO Crash Course - Metadata, Robots, Sitemap, OpenGraph...",
+        "channel": "PedroTech",
+        "views": 28802,
+        "likes": 1313,
+        "duration_min": 44.3,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 69.0,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.8,
+          "relevance": 3.6,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "wTGVHLyV09M",
+        "url": "https://www.youtube.com/watch?v=wTGVHLyV09M",
+        "title": "SEO in Next.js - The Ultimate Guide (Metadata, Sitemap, Robots, Google Search Console, Caching)",
+        "channel": "Coding in Flow",
+        "views": 147934,
+        "likes": 5295,
+        "duration_min": 62.2,
+        "source_type": "youtube",
+        "credibility_score": 0.94,
+        "score": 58.3,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.8,
+          "relevance": 5.4,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "h-21jXMU684",
+        "url": "https://www.youtube.com/watch?v=h-21jXMU684",
+        "title": "Become an SEO MASTER in NEXT.js - Ultimate Guide",
+        "channel": "Coding with Tushar",
+        "views": 13658,
+        "likes": 545,
+        "duration_min": 32.9,
+        "source_type": "youtube",
+        "credibility_score": 0.777,
+        "score": 55.6,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 2.8,
+          "relevance": 3.6,
+          "recency": 7.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 15.5
+        }
+      },
+      {
+        "video_id": "kFzXOuBFN9Q",
+        "url": "https://www.youtube.com/watch?v=kFzXOuBFN9Q",
+        "title": "SEO Optimization with LATEST features of NEXT.JS",
+        "channel": "Sakura Dev",
+        "views": 21965,
+        "likes": 743,
+        "duration_min": 27.7,
+        "source_type": "youtube",
+        "credibility_score": 0.732,
+        "score": 52.3,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.2,
+          "relevance": 3.6,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 14.6
+        }
+      },
+      {
+        "video_id": "sp1Kg0k-wI0",
+        "url": "https://www.youtube.com/watch?v=sp1Kg0k-wI0",
+        "title": "SEO in Next.js 13 - Everything You Need to Know!",
+        "channel": "Ben Haig",
+        "views": 3197,
+        "likes": 121,
+        "duration_min": 11.8,
+        "source_type": "youtube",
+        "credibility_score": 0.707,
+        "score": 48.1,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 1.6,
+          "relevance": 3.6,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 14.1
+        }
+      }
+    ],
+    "total_candidates": 14,
+    "filtered_out": 5
+  },
+  "nextjs_seo_technical": {
+    "query": "Next.js 14 15 technical SEO complete guide crawlability indexability 2025 2026",
+    "videos": [
+      {
+        "video_id": "S5hcOZmslBw",
+        "url": "https://www.youtube.com/watch?v=S5hcOZmslBw",
+        "title": "[Solved] Discovered / Crawled - Currently Not Indexed Issue in Google Search Console",
+        "channel": "Rank Math SEO",
+        "views": 48329,
+        "likes": 936,
+        "duration_min": 14.0,
+        "source_type": "youtube",
+        "credibility_score": 0.88,
+        "score": 51.8,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.2,
+          "relevance": 0.0,
+          "recency": 7.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 17.6
+        }
+      }
+    ],
+    "total_candidates": 1,
+    "filtered_out": 0
+  },
+  "eeat_signals_seo": {
+    "query": "E-E-A-T signals SEO 2025 2026 experience expertise authority trust Google",
+    "videos": [
+      {
+        "video_id": "0S2V3mstk7I",
+        "url": "https://www.youtube.com/watch?v=0S2V3mstk7I",
+        "title": "Chat With Eli Schwartz | AI Search, Mid-Funnel SEO & What Actually Still Matters (Part 1)",
+        "channel": "Search With Sean",
+        "views": 1173,
+        "likes": 5,
+        "duration_min": 31.4,
+        "source_type": "youtube",
+        "credibility_score": 0.962,
+        "score": 57.6,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.4,
+          "relevance": 3.6,
+          "recency": 14.0,
+          "engagement": 2.4,
+          "transcript": 12.0,
+          "credibility": 19.2
+        }
+      },
+      {
+        "video_id": "twIKxinvzrA",
+        "url": "https://www.youtube.com/watch?v=twIKxinvzrA",
+        "title": "Optimization of E-A-T | Gain ranks and visibility | Content Creation | E.A.T. SEO - Tuhin Banik",
+        "channel": "Tuhin Banik",
+        "views": 1913,
+        "likes": 14,
+        "duration_min": 7.3,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 49.3,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 4.1,
+          "relevance": 3.6,
+          "recency": 4.2,
+          "engagement": 2.4,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 23
+  },
+  "case_studies_trust_signals": {
+    "query": "SaaS case studies trust signals social proof conversion SEO best practices",
+    "videos": [
+      {
+        "video_id": "RGT7nNrvSek",
+        "url": "https://www.youtube.com/watch?v=RGT7nNrvSek",
+        "title": "ALL OF BUSINESS Explained in 58 Minutes (No BS, No Fluff)",
+        "channel": "Evan Carmichael",
+        "views": 72198,
+        "likes": 2275,
+        "duration_min": 59.0,
+        "source_type": "youtube",
+        "credibility_score": 0.94,
+        "score": 64.4,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 6.5,
+          "relevance": 0.0,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "ncHYcknB58w",
+        "url": "https://www.youtube.com/watch?v=ncHYcknB58w",
+        "title": "The $1M Product Page Formula (Steal This Template)",
+        "channel": "Shopioso",
+        "views": 9680,
+        "likes": 266,
+        "duration_min": 14.9,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 60.0,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.0,
+          "relevance": 0.0,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "hukEe9qfFzg",
+        "url": "https://www.youtube.com/watch?v=hukEe9qfFzg",
+        "title": "The 7 BEST B2B Marketing Strategies for 2026",
+        "channel": "Exposure Ninja",
+        "views": 96277,
+        "likes": 2335,
+        "duration_min": 30.9,
+        "source_type": "youtube",
+        "credibility_score": 0.926,
+        "score": 51.7,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.2,
+          "relevance": 3.3,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.5
+        }
+      },
+      {
+        "video_id": "5oqIYg9M-hk",
+        "url": "https://www.youtube.com/watch?v=5oqIYg9M-hk",
+        "title": "Part 06 - Moby Dick Audiobook by Herman Melville (Chs 064-077)",
+        "channel": "CCProse",
+        "views": 227210,
+        "likes": 106,
+        "duration_min": 124.8,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 45.0,
+        "score_breakdown": {
+          "views": 2.0,
+          "channel": 4.4,
+          "relevance": 0.0,
+          "recency": 4.2,
+          "engagement": 2.4,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 8,
+    "filtered_out": 4
+  },
+  "thin_content_programmatic_seo": {
+    "query": "programmatic SEO avoid thin content duplicate city pages template differentiation 2025",
+    "videos": [],
+    "total_candidates": 0,
+    "filtered_out": 0
+  },
+  "topical_authority_content": {
+    "query": "topical authority content strategy SEO 2025 2026 content clusters pillar pages",
+    "videos": [
+      {
+        "video_id": "JA4KnGvfXAo",
+        "url": "https://www.youtube.com/watch?v=JA4KnGvfXAo",
+        "title": "Topical Authority Map Tutorial (Step\u2011by\u2011Step) for 2025",
+        "channel": "Chris M. Walker",
+        "views": 1862,
+        "likes": 65,
+        "duration_min": 23.4,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 69.1,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.3,
+          "relevance": 7.2,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "XN1Ulc4brgA",
+        "url": "https://www.youtube.com/watch?v=XN1Ulc4brgA",
+        "title": "How to Build Topical Authority for your Website",
+        "channel": "Rank Math SEO",
+        "views": 6852,
+        "likes": 215,
+        "duration_min": 15.7,
+        "source_type": "youtube",
+        "credibility_score": 0.88,
+        "score": 63.6,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.2,
+          "relevance": 5.4,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 17.6
+        }
+      },
+      {
+        "video_id": "BXaXmDsZqZo",
+        "url": "https://www.youtube.com/watch?v=BXaXmDsZqZo",
+        "title": "SEO Silos vs. Topical Clusters (What's best?)",
+        "channel": "Jaume Ros",
+        "views": 19697,
+        "likes": 715,
+        "duration_min": 7.7,
+        "source_type": "youtube",
+        "credibility_score": 0.97,
+        "score": 62.5,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.3,
+          "relevance": 9.0,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 19.4
+        }
+      },
+      {
+        "video_id": "HlzA-MA52Bg",
+        "url": "https://www.youtube.com/watch?v=HlzA-MA52Bg",
+        "title": "How to Outrank your Competitors in ChatGPT (and other LLMs)",
+        "channel": "Surfer Academy",
+        "views": 1756,
+        "likes": 63,
+        "duration_min": 22.5,
+        "source_type": "youtube",
+        "credibility_score": 0.938,
+        "score": 60.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.4,
+          "relevance": 0.0,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "mo1j91Mw1Fg",
+        "url": "https://www.youtube.com/watch?v=mo1j91Mw1Fg",
+        "title": "Topical Authority SEO Complete Guide (2025 Update)",
+        "channel": "Satish Gaire",
+        "views": 10812,
+        "likes": 379,
+        "duration_min": 13.6,
+        "source_type": "youtube",
+        "credibility_score": 0.813,
+        "score": 57.1,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 2.8,
+          "relevance": 7.2,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 16.3
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 18
+  },
+  "schema_markup_advanced": {
+    "query": "advanced schema markup structured data JSON-LD rich results 2025 2026 SEO",
+    "videos": [
+      {
+        "video_id": "ylmToOxmEis",
+        "url": "https://www.youtube.com/watch?v=ylmToOxmEis",
+        "title": "Class 26 - Enhancement Report in Google Search Console - Advanced SEO Course 2026",
+        "channel": "Amit Tiwari",
+        "views": 4473,
+        "likes": 146,
+        "duration_min": 19.4,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 68.4,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 4.9,
+          "relevance": 4.9,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "kZgDVRhfLHM",
+        "url": "https://www.youtube.com/watch?v=kZgDVRhfLHM",
+        "title": "How to Configure Schema Markup in Rank Math",
+        "channel": "Rank Math SEO",
+        "views": 16758,
+        "likes": 251,
+        "duration_min": 23.5,
+        "source_type": "youtube",
+        "credibility_score": 0.88,
+        "score": 62.7,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.2,
+          "relevance": 8.2,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 17.6
+        }
+      },
+      {
+        "video_id": "HTIXuvWs8Vg",
+        "url": "https://www.youtube.com/watch?v=HTIXuvWs8Vg",
+        "title": "FAQ SCHEMA GENERATOR rich snippet tool structured data seo markup google - pagerewriter faq builder",
+        "channel": "PassiveCashStacker",
+        "views": 1814,
+        "likes": 50,
+        "duration_min": 5.0,
+        "source_type": "youtube",
+        "credibility_score": 0.94,
+        "score": 55.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.0,
+          "relevance": 9.8,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "V6gw0q41jyc",
+        "url": "https://www.youtube.com/watch?v=V6gw0q41jyc",
+        "title": "Google Rich Results SEO - How to Add to your website",
+        "channel": "A shot of code",
+        "views": 3640,
+        "likes": 93,
+        "duration_min": 8.2,
+        "source_type": "youtube",
+        "credibility_score": 0.585,
+        "score": 47.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.7,
+          "relevance": 8.2,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 11.7
+        }
+      },
+      {
+        "video_id": "Yj8ujUfAJM8",
+        "url": "https://www.youtube.com/watch?v=Yj8ujUfAJM8",
+        "title": "Microdata vs JSON-LD: Which Structured Data Format Wins?",
+        "channel": "Siegfried, deploy!",
+        "views": 1472,
+        "likes": 32,
+        "duration_min": 10.0,
+        "source_type": "youtube",
+        "credibility_score": 0.819,
+        "score": 46.2,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 1.3,
+          "relevance": 3.3,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 16.4
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 17
+  },
+  "schema_service_pricing": {
+    "query": "schema markup Service pricing page Offer AggregateOffer JSON-LD SEO",
+    "videos": [],
+    "total_candidates": 0,
+    "filtered_out": 0
+  },
+  "nextjs_core_web_vitals": {
+    "query": "Next.js Core Web Vitals optimization LCP INP CLS 2025 2026 performance",
+    "videos": [
+      {
+        "video_id": "Zi94vbK1bus",
+        "url": "https://www.youtube.com/watch?v=Zi94vbK1bus",
+        "title": "Complete SEO Tutorial for Beginners | Rank Your Website #1 on Google \ud83d\ude80",
+        "channel": "Codegainers",
+        "views": 1135,
+        "likes": 36,
+        "duration_min": 112.1,
+        "source_type": "youtube",
+        "credibility_score": 0.916,
+        "score": 60.1,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 1.6,
+          "relevance": 1.6,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.3
+        }
+      },
+      {
+        "video_id": "Qwb-Za6cBws",
+        "url": "https://www.youtube.com/watch?v=Qwb-Za6cBws",
+        "title": "How To Maximize Performance In Your React Apps",
+        "channel": "Web Dev Simplified",
+        "views": 170786,
+        "likes": 5422,
+        "duration_min": 13.0,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 56.9,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 5.9,
+          "relevance": 1.6,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "0fONene3OIA",
+        "url": "https://www.youtube.com/watch?v=0fONene3OIA",
+        "title": "The ultimate guide to web performance",
+        "channel": "Beyond Fireship",
+        "views": 542679,
+        "likes": 29865,
+        "duration_min": 6.7,
+        "source_type": "youtube",
+        "credibility_score": 0.691,
+        "score": 51.4,
+        "score_breakdown": {
+          "views": 1.0,
+          "channel": 5.1,
+          "relevance": 3.3,
+          "recency": 4.2,
+          "engagement": 12.0,
+          "transcript": 12.0,
+          "credibility": 13.8
+        }
+      },
+      {
+        "video_id": "nhJbA8jA-is",
+        "url": "https://www.youtube.com/watch?v=nhJbA8jA-is",
+        "title": "FIX Largest Contentful Paint (LCP) & Speed up WordPress Website | Improve Pagespeed Score",
+        "channel": "Web & Blogging Academy \ud83d\udcbb",
+        "views": 123856,
+        "likes": 1740,
+        "duration_min": 22.1,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 51.0,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 3.7,
+          "relevance": 1.6,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "0Hdp9Ne_5p0",
+        "url": "https://www.youtube.com/watch?v=0Hdp9Ne_5p0",
+        "title": "How to Improve First Input Delay on WordPress",
+        "channel": "WP Rocket",
+        "views": 1738,
+        "likes": 18,
+        "duration_min": 5.9,
+        "source_type": "youtube",
+        "credibility_score": 0.819,
+        "score": 43.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.2,
+          "relevance": 0.0,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 16.4
+        }
+      }
+    ],
+    "total_candidates": 12,
+    "filtered_out": 6
+  },
+  "nextjs_image_optimization": {
+    "query": "Next.js Image component optimization WebP AVIF lazy loading blur placeholder performance",
+    "videos": [
+      {
+        "video_id": "R4sdWUI3-mY",
+        "url": "https://www.youtube.com/watch?v=R4sdWUI3-mY",
+        "title": "Next.js Image Component and Image Optimization + srcset and sizes explanation",
+        "channel": "Bruno Antunes",
+        "views": 42304,
+        "likes": 1535,
+        "duration_min": 28.1,
+        "source_type": "youtube",
+        "credibility_score": 0.773,
+        "score": 56.1,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.3,
+          "relevance": 6.5,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 15.5
+        }
+      },
+      {
+        "video_id": "PHoNqolrp8U",
+        "url": "https://www.youtube.com/watch?v=PHoNqolrp8U",
+        "title": "NextJS 13. \u041e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u044f \u0438\u0437\u043e\u0431\u0440\u0430\u0436\u0435\u043d\u0438\u0439",
+        "channel": "\u041c\u0438\u0445\u0430\u0438\u043b \u041d\u0435\u043f\u043e\u043c\u043d\u044f\u0449\u0438\u0439",
+        "views": 16305,
+        "likes": 662,
+        "duration_min": 12.3,
+        "source_type": "youtube",
+        "credibility_score": 0.836,
+        "score": 55.0,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.2,
+          "relevance": 3.3,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 16.7
+        }
+      }
+    ],
+    "total_candidates": 5,
+    "filtered_out": 3
+  },
+  "framer_motion_performance": {
+    "query": "Framer Motion performance optimization React reduce bundle size animation SEO",
+    "videos": [
+      {
+        "video_id": "TvrQnBDIDpI",
+        "url": "https://www.youtube.com/watch?v=TvrQnBDIDpI",
+        "title": "The Right way to Optimize Next.js to Score 100 in lighthouse",
+        "channel": "CoderOne",
+        "views": 79599,
+        "likes": 1795,
+        "duration_min": 23.4,
+        "source_type": "youtube",
+        "credibility_score": 0.886,
+        "score": 51.3,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.3,
+          "relevance": 3.6,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 17.7
+        }
+      },
+      {
+        "video_id": "yItB3icYHIY",
+        "url": "https://www.youtube.com/watch?v=yItB3icYHIY",
+        "title": "NextJS V10\u200a | the Good, Great and Awesome Updates to Next JS",
+        "channel": "Cod\u00fa",
+        "views": 2432,
+        "likes": 96,
+        "duration_min": 11.7,
+        "source_type": "youtube",
+        "credibility_score": 0.762,
+        "score": 46.9,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.8,
+          "relevance": 0.0,
+          "recency": 4.2,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 15.2
+        }
+      }
+    ],
+    "total_candidates": 4,
+    "filtered_out": 2
+  },
+  "image_seo_optimization": {
+    "query": "image SEO optimization alt text WebP AVIF compression responsive images 2025 2026",
+    "videos": [],
+    "total_candidates": 1,
+    "filtered_out": 1
+  },
+  "nextjs_image_best_practices": {
+    "query": "Next.js Image component best practices sizes priority placeholder quality",
+    "videos": [],
+    "total_candidates": 5,
+    "filtered_out": 5
+  },
+  "generative_engine_optimization": {
+    "query": "Generative Engine Optimization GEO AI Overviews SEO 2025 2026 citations",
+    "videos": [
+      {
+        "video_id": "cg9EZqeaAOU",
+        "url": "https://www.youtube.com/watch?v=cg9EZqeaAOU",
+        "title": "Answer Engine Optimization (AEO): How to Rank #1 in AI Overviews & Dominate Search",
+        "channel": "Julia McCoy",
+        "views": 7762,
+        "likes": 327,
+        "duration_min": 23.9,
+        "source_type": "youtube",
+        "credibility_score": 0.951,
+        "score": 73.4,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.8,
+          "relevance": 9.0,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 19.0
+        }
+      },
+      {
+        "video_id": "rtrLA42XRog",
+        "url": "https://www.youtube.com/watch?v=rtrLA42XRog",
+        "title": "How to RANK in Google\u2019s AI Overviews (Complete 2026 SEO Guide)",
+        "channel": "Surfer Academy",
+        "views": 5453,
+        "likes": 174,
+        "duration_min": 13.8,
+        "source_type": "youtube",
+        "credibility_score": 0.938,
+        "score": 70.0,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.4,
+          "relevance": 7.2,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "5Mlx-2kbAXs",
+        "url": "https://www.youtube.com/watch?v=5Mlx-2kbAXs",
+        "title": "How to Optimize Your Business for ChatGPT, Perplexity & AI Search (AEO Tutorial)",
+        "channel": "HubSpot Marketing",
+        "views": 5012,
+        "likes": 212,
+        "duration_min": 14.4,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 69.5,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 5.3,
+          "relevance": 3.6,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "tMBdA2gkXgk",
+        "url": "https://www.youtube.com/watch?v=tMBdA2gkXgk",
+        "title": "AI-SEO Is Changing Everything in 2026",
+        "channel": "Neil Patel",
+        "views": 58603,
+        "likes": 1660,
+        "duration_min": 12.8,
+        "source_type": "youtube",
+        "credibility_score": 0.82,
+        "score": 61.4,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 5.9,
+          "relevance": 3.6,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 16.4
+        }
+      },
+      {
+        "video_id": "PmKPtCUZlCE",
+        "url": "https://www.youtube.com/watch?v=PmKPtCUZlCE",
+        "title": "A Complete Guide to AI SEO in 2026 (AEO, GEO, LLMO)",
+        "channel": "Leveling Up with Eric Siu",
+        "views": 53134,
+        "likes": 1430,
+        "duration_min": 9.3,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 61.3,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 4.6,
+          "relevance": 5.4,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 13
+  },
+  "ai_search_optimization": {
+    "query": "AI search optimization ChatGPT Perplexity Google AI Overviews llms.txt brand visibility",
+    "videos": [
+      {
+        "video_id": "PgyEedYPfhg",
+        "url": "https://www.youtube.com/watch?v=PgyEedYPfhg",
+        "title": "LLM SEO: Short-Term Hacks vs Long-Term Wins (AI Overviews, Perplexity, ChatGPT)",
+        "channel": "Edward Sturm",
+        "views": 5379,
+        "likes": 476,
+        "duration_min": 77.9,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 70.4,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 3.8,
+          "relevance": 3.6,
+          "recency": 14.0,
+          "engagement": 12.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "-RnaWAZ3kVo",
+        "url": "https://www.youtube.com/watch?v=-RnaWAZ3kVo",
+        "title": "SEO Foresight 2026: Aligning multi-engine strategy, LLM search, entity SEO & social discovery",
+        "channel": "SE Ranking",
+        "views": 2580,
+        "likes": 108,
+        "duration_min": 228.2,
+        "source_type": "youtube",
+        "credibility_score": 0.951,
+        "score": 67.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.0,
+          "relevance": 7.2,
+          "recency": 14.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 19.0
+        }
+      },
+      {
+        "video_id": "TrAVBTFiDQ0",
+        "url": "https://www.youtube.com/watch?v=TrAVBTFiDQ0",
+        "title": "What Is GEO and Why It Is Important in 2025",
+        "channel": "Hostinger Academy",
+        "views": 45891,
+        "likes": 988,
+        "duration_min": 8.2,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 61.4,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 5.0,
+          "relevance": 3.6,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "5yxgsvAKC2M",
+        "url": "https://www.youtube.com/watch?v=5yxgsvAKC2M",
+        "title": "10K Users from ChatGPT & Perplexity: How AI Models Became a Top Acquisition Channel",
+        "channel": "Brand24",
+        "views": 1942,
+        "likes": 53,
+        "duration_min": 93.5,
+        "source_type": "youtube",
+        "credibility_score": 0.817,
+        "score": 59.8,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 3.0,
+          "relevance": 5.4,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 16.3
+        }
+      },
+      {
+        "video_id": "QEj8ajXdHjs",
+        "url": "https://www.youtube.com/watch?v=QEj8ajXdHjs",
+        "title": "How to Rank on ChatGPT : AI SEO for LLM-based Search Engines",
+        "channel": "Arvow",
+        "views": 5174,
+        "likes": 74,
+        "duration_min": 6.6,
+        "source_type": "youtube",
+        "credibility_score": 0.987,
+        "score": 57.7,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 2.5,
+          "relevance": 5.4,
+          "recency": 7.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 19.7
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 19
+  },
+  "seo_95_score_strategy": {
+    "query": "perfect SEO score 90 95 100 technical SEO audit checklist 2025 2026",
+    "videos": [
+      {
+        "video_id": "5nonAkgPkSQ",
+        "url": "https://www.youtube.com/watch?v=5nonAkgPkSQ",
+        "title": "JEE Mains 2026: How I Got 97 Percentile in Just 5 Days \ud83d\ude31\ud83d\udd25 [Only Boards Level Prep]",
+        "channel": "RDS Vlogs [IIT Guwahati]",
+        "views": 27393,
+        "likes": 788,
+        "duration_min": 15.5,
+        "source_type": "youtube",
+        "credibility_score": 1.0,
+        "score": 65.4,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 5.1,
+          "relevance": 3.3,
+          "recency": 14.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 20.0
+        }
+      },
+      {
+        "video_id": "l-vCkgzvC_Y",
+        "url": "https://www.youtube.com/watch?v=l-vCkgzvC_Y",
+        "title": "How I Scored 80/80 in Class 12 English Boards | My Exact Strategy\u201d\ud83d\udd25",
+        "channel": "Piyush Sharma",
+        "views": 183266,
+        "likes": 9974,
+        "duration_min": 15.2,
+        "source_type": "youtube",
+        "credibility_score": 0.871,
+        "score": 64.0,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 3.4,
+          "relevance": 1.6,
+          "recency": 14.0,
+          "engagement": 12.0,
+          "transcript": 12.0,
+          "credibility": 17.4
+        }
+      },
+      {
+        "video_id": "rgGJEH_DnC8",
+        "url": "https://www.youtube.com/watch?v=rgGJEH_DnC8",
+        "title": "Win BIG with AI in 2025! DeepSeek Accurate Football Betting Tips Revealed!",
+        "channel": "Smart Preditz",
+        "views": 11760,
+        "likes": 186,
+        "duration_min": 7.7,
+        "source_type": "youtube",
+        "credibility_score": 0.936,
+        "score": 53.7,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 2.2,
+          "relevance": 0.0,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.7
+        }
+      },
+      {
+        "video_id": "6NE2Shwr9gk",
+        "url": "https://www.youtube.com/watch?v=6NE2Shwr9gk",
+        "title": "I Tried Selling Digital Products for 90 Days",
+        "channel": "Tim Koa",
+        "views": 1701612,
+        "likes": 52200,
+        "duration_min": 13.7,
+        "source_type": "youtube",
+        "credibility_score": 0.764,
+        "score": 51.2,
+        "score_breakdown": {
+          "views": 1.0,
+          "channel": 4.7,
+          "relevance": 1.6,
+          "recency": 7.0,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 15.3
+        }
+      },
+      {
+        "video_id": "ZcuziWFfpQY",
+        "url": "https://www.youtube.com/watch?v=ZcuziWFfpQY",
+        "title": "RESUME to Get JOB - Complete Guide & ATS Resume Format \ud83d\udd25",
+        "channel": "Rishabh Mishra",
+        "views": 742713,
+        "likes": 16615,
+        "duration_min": 15.2,
+        "source_type": "youtube",
+        "credibility_score": 0.79,
+        "score": 47.0,
+        "score_breakdown": {
+          "views": 1.0,
+          "channel": 5.2,
+          "relevance": 0.0,
+          "recency": 7.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 15.8
+        }
+      }
+    ],
+    "total_candidates": 21,
+    "filtered_out": 13
+  },
+  "saas_seo_strategy": {
+    "query": "SaaS SEO strategy B2B service business SEO 2025 2026 complete guide",
+    "videos": [
+      {
+        "video_id": "t_97x5ffYCY",
+        "url": "https://www.youtube.com/watch?v=t_97x5ffYCY",
+        "title": "Backlinks for SEO: Complete Guide for 2026",
+        "channel": "Nathan Gotch",
+        "views": 25304,
+        "likes": 559,
+        "duration_min": 19.0,
+        "source_type": "youtube",
+        "credibility_score": 0.907,
+        "score": 62.5,
+        "score_breakdown": {
+          "views": 5.0,
+          "channel": 4.3,
+          "relevance": 7.2,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.1
+        }
+      },
+      {
+        "video_id": "bhTo8fDmr5I",
+        "url": "https://www.youtube.com/watch?v=bhTo8fDmr5I",
+        "title": "How to Dominate AI Search Results in 2026 (ChatGPT, AI Overviews & More)",
+        "channel": "Surfer Academy",
+        "views": 111719,
+        "likes": 3723,
+        "duration_min": 18.2,
+        "source_type": "youtube",
+        "credibility_score": 0.938,
+        "score": 60.7,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 3.4,
+          "relevance": 3.6,
+          "recency": 9.8,
+          "engagement": 9.6,
+          "transcript": 12.0,
+          "credibility": 18.8
+        }
+      },
+      {
+        "video_id": "vE_A4IhmkKQ",
+        "url": "https://www.youtube.com/watch?v=vE_A4IhmkKQ",
+        "title": "Give me 8 Minutes and You'll Win at SEO in 2025",
+        "channel": "Ahrefs",
+        "views": 64945,
+        "likes": 1716,
+        "duration_min": 8.2,
+        "source_type": "youtube",
+        "credibility_score": 0.919,
+        "score": 58.6,
+        "score_breakdown": {
+          "views": 3.5,
+          "channel": 5.3,
+          "relevance": 3.6,
+          "recency": 9.8,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 18.4
+        }
+      },
+      {
+        "video_id": "HxEQCHpZzHk",
+        "url": "https://www.youtube.com/watch?v=HxEQCHpZzHk",
+        "title": "How to Grow Your Business SO Fast in 2026 It Feels ILLEGAL",
+        "channel": "Alex Hormozi",
+        "views": 1270052,
+        "likes": 33770,
+        "duration_min": 63.1,
+        "source_type": "youtube",
+        "credibility_score": 0.88,
+        "score": 53.6,
+        "score_breakdown": {
+          "views": 1.0,
+          "channel": 6.4,
+          "relevance": 3.6,
+          "recency": 7.0,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 17.6
+        }
+      },
+      {
+        "video_id": "jPt2yp_lM7c",
+        "url": "https://www.youtube.com/watch?v=jPt2yp_lM7c",
+        "title": "B2B SEO Strategy: Step-By-Step Process in 2026 [To Generate LEADS and Organic Traffic]",
+        "channel": "Eduard Dziak",
+        "views": 4596,
+        "likes": 109,
+        "duration_min": 35.7,
+        "source_type": "youtube",
+        "credibility_score": 0.823,
+        "score": 51.1,
+        "score_breakdown": {
+          "views": 3.0,
+          "channel": 2.2,
+          "relevance": 7.2,
+          "recency": 4.2,
+          "engagement": 6.0,
+          "transcript": 12.0,
+          "credibility": 16.5
+        }
+      }
+    ],
+    "total_candidates": 25,
+    "filtered_out": 15
+  }
+}

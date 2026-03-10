@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+
+<html class="dark" lang="en"><head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Crave Mode | Enhance Your Vision</title>
+<!-- Tailwind CSS CDN -->
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<!-- Google Fonts: Inter -->
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          fontFamily: {
+            sans: ['Inter', 'sans-serif'],
+          },
+          colors: {
+            brand: '#2b6cee',
+          },
+          animation: {
+            'float': 'float 6s ease-in-out infinite',
+            'fade-in-up': 'fadeInUp 1s ease-out forwards',
+          },
+          keyframes: {
+            float: {
+              '0%, 100%': { transform: 'translateY(0px)' },
+              '50%': { transform: 'translateY(-20px)' },
+            },
+            fadeInUp: {
+              '0%': { opacity: '0', transform: 'translateY(20px)' },
+              '100%': { opacity: '1', transform: 'translateY(0)' },
+            }
+          }
+        }
+      }
+    }
+  </script>
+<style data-purpose="custom-layouts">
+    body {
+      background-color: #000000;
+      color: #ffffff;
+      overflow-x: hidden;
+    }
+    
+    /* Custom mask for the "floating" grid background to fade out at edges */
+    .hero-mask {
+      mask-image: radial-gradient(circle at center, black 30%, transparent 90%);
+      -webkit-mask-image: radial-gradient(circle at center, black 30%, transparent 90%);
+    }
+
+    /* Floating tile specific styles */
+    .floating-tile {
+      position: absolute;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: transform 0.3s ease, filter 0.3s ease;
+      filter: grayscale(20%);
+    }
+
+    .floating-tile:hover {
+      transform: scale(1.05) z-index: 50;
+      filter: grayscale(0%);
+    }
+
+    /* Staggered entry animation helper */
+    .reveal {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: all 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+    }
+
+    .reveal.active {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script></head>
+<body class="font-sans antialiased">
+<!-- BEGIN: Navigation -->
+<nav class="fixed top-0 left-0 w-full z-50 px-6 py-4 flex justify-between items-center bg-black/50 backdrop-blur-md">
+<div class="flex items-center space-x-8">
+<a class="text-xl font-bold tracking-tighter uppercase" data-purpose="logo" href="#">Crave Mode</a>
+<div class="hidden md:flex space-x-6">
+<a class="text-sm font-medium text-gray-400 hover:text-white transition-colors" href="#">Discover</a>
+<a class="text-sm font-medium text-gray-400 hover:text-white transition-colors" href="#">Careers</a>
+</div>
+</div>
+<div class="flex items-center space-x-4">
+<!-- Search Input mimicking the reference -->
+<div class="hidden md:block relative">
+<span class="absolute inset-y-0 left-0 pl-3 flex items-center text-gray-500">
+<svg class="h-4 w-4" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</span>
+<input class="bg-[#1a1a1a] border-none text-sm rounded-full py-2 pl-10 pr-4 w-64 focus:ring-1 focus:ring-gray-700" placeholder="Search inspiration" type="text"/>
+</div>
+<a class="text-sm font-medium text-white hover:text-gray-300 transition-colors" href="#">Log in</a>
+<a class="bg-white text-black text-sm font-bold px-5 py-2 rounded-full hover:bg-gray-200 transition-colors" href="#">Sign up</a>
+</div>
+</nav>
+<!-- END: Navigation -->
+<!-- BEGIN: Hero Section -->
+<main class="relative min-h-screen w-full flex flex-col items-center justify-center pt-20 overflow-hidden will-change-transform" id="hero-section">
+<!-- Floating Background Tiles (Decoration) -->
+<div class="absolute inset-0 z-0 opacity-40 hero-mask select-none pointer-events-none" id="parallax-container">
+<!-- Top Left Cluster -->
+<img alt="Visual 1" class="floating-tile w-32 h-44 top-[10%] left-[5%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB-ge6W_Y4r9Pg88Ij_ky5eljp8bc-pEMBo8t-LK_mCeIGNnYIXYSwmbbMTZnzHtznS423gKZjiqE3J1IRnJjQP3CBc7SBNcuD-dWZSRyCWzOp1z7pSrkyaXnLFqC6rWTSlQrlFYD6tVfrbAX5CHhDuwSVjpPcwWrr4i-rlcAh6cHnBLg9cJy5PtkU__YQSXtsHnDm9dt55cp0g8Whdg0KnEG2ZGLAVVQRav9os0UH03EXoDV3lWkP3Gx4tmKLnJXfyjFat7x3H2p3d" style="animation-delay: 0s;"/>
+<img alt="Visual 2" class="floating-tile w-48 h-36 top-[5%] left-[20%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAParGb8QAJBQfxQorHNW469xISUdq_PMfD7ey1KJH0pDG5U2J-Uojas0JYQgnsU--aPBPEk78kJY3tFi2LkTug4H8Uzbgub-pGiZ7g9yafyKspdL6gzXvOD_Cku9q4_6Ud7hsLowGWue1zNG3PQhSaSclY8082kmsgBWRMrOnSVrlpaoNtQakuNRYVEbhZvd9cCqdcwo-4DMUJOwuxtfRodsulSzMdziy7qxjPlassduLW1M43Bi2XojOvB54P73emY_q3eAJmhvcY" style="animation-delay: 1s;"/>
+<img alt="Visual 3" class="floating-tile w-28 h-40 top-[25%] left-[12%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDhZ32unqbb0Y206_EQblS5Z3_w7jbm4GTBQJMycAnMAGaSavuNfc3mlxXrws3autZyzxr_-GG2QepG881CElmS2-trcmrJWSa9TQ1XrT7Rjdvm2dZ7ORYRDn4UqcdaIhfzRKHju-BdIfTWgc3qCuP-sHOfsW0SZndQqI9-Hfk9kC-rFuKWO3IoF5_cA5cnMpnWvqYnfgHGGcnsFlzb5TEXePsTo_lXBIyfuf4Ys9YH0MHo5nfPqvuupNGKN_7Kg5AGl2a544a1h7DE" style="animation-delay: 2s;"/>
+<!-- Top Right Cluster -->
+<img alt="Visual 4" class="floating-tile w-40 h-56 top-[2%] right-[10%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBEtE3olPhsL4rXBavIiPt5M9FaDLrd72WdOlT11o2jTt_5rLEaOqcH4tvbYGv2ME0gztkYz4VWAaL-e8_BQpGwblEaaR37DE6PpBmCGyzVWWHc4gk9n0HyBkdsPiQkW5sAl1x3Jt7hO_YCKiySXFFL6_Oy1td1X5cPfPNszlEgA046lAfkuT8gq9qYJ7FiYIWzlJj62WHT1VxzXKAovt2fWggXIjAWpfBGfYIYqWupL9KE_4f_ZsxU_9041SoY0ZVzg65JJl41kWI0" style="animation-delay: 0.5s;"/>
+<img alt="Visual 5" class="floating-tile w-36 h-24 top-[15%] right-[25%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBQkq7WctHbJYZbxexWMPGgFBzcT6fkUfLtU5vrbC0K3JErXIS0qjvLJDc9mRPWcroJdS29HJuxhqcC2wJ89XCaKMeawglsTgXcLOaKOIjOeHkCEtc5z7MQpNBs5tFdjP_mvz4AQ2pXIRoKjNc5bJiPCzAL0Y2mj79GyCp6STiuE9IWuPx1G8hpuAu2aNQ_Di6gCe_zljqcxJJRuMNvBX1XB9sHk6H4iANltqeOJfxrGhZlMJ2ZU012pry7pWoaDeZLrBR-w0wivofW" style="animation-delay: 1.5s;"/>
+<img alt="Visual 6" class="floating-tile w-44 h-44 top-[35%] right-[5%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCPUSg_0pdFwTtxiy7ieiZ8kDY6EOKUY-F60fpMaBHm8oTMHJQsO2zJXMljY86ZPsGJdeZVMM6ZQRvuFQePRqcDMPVz57fgDh4tVBQ6M56tGnehFj906bBlBUbuwcZkJ1k7B13arYLNFMdX2tCGC-7uE_m9syLLiJ_Mp8XnGgtlTj_5kwI1pnkAYsY5DhmDcxOyqUlkAUK8pCk9jHbXduzL4fPEZGHPrE8HQQSARYN3gVLyFEWeyIyvuaRvD4ModjsYOzRmxkuDFmhr" style="animation-delay: 2.5s;"/>
+<!-- Bottom Clusters -->
+<img alt="Visual 7" class="floating-tile w-40 h-40 bottom-[10%] left-[8%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAFnZxouERuIHpCalcc9TEJMqGUsX3md-ChPhNU7m6h6AftZGBxeCqTesxlFvxjWRj3KU_HIcrGcol2H7iOJSRDPsi9y3x5DrBGpqEeTVs1GuOAd-WMfv-qvoOcqsVP3L0NR6Hs890JHc0AxgvgCuISIoyGZzUJzEN4JxetUPaZmgw6tDY6Xko32mUiqsG66_7WC3yIFvbDl16AIgZfaa21oz_JFd7i-Oj7wACxgIeons975aCuv-f6zdMw9WjZHDFOsVohmHrckIwc" style="animation-delay: 0.2s;"/>
+<img alt="Visual 8" class="floating-tile w-32 h-48 bottom-[15%] right-[15%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCAoMmW1d9MABKd3RCXCOwzdNbE4jZ2__waa4GtXyC3fbrfvV_Uv0OSn2H5BwshV49LGtwuNT66KVPURrPajdfgbQYZFoxKs5UttFIYpT_vAB9_4aGUBGoc6r74JigWequwZHUY9pQVDv0vtD5w3XVwndu3MgnayE6CrDf9DHZeqCjOGOf7MSVYX3ZksWpKwRkRB-oRVCX5GmxuXS_Rco6N0-e9n5JHX2VK6d0CrT9nyEzz5Z1GmTskpo0kA2LnJtEWXyFQ8J0D1u4k" style="animation-delay: 1.2s;"/>
+<img alt="Visual 9" class="floating-tile w-48 h-48 bottom-[5%] left-[30%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuArsYlvt6bBkgzujr9Vo-13Jx2RYc4o3UZs3aQ26axfHfJqW8KpZtl_kURi-WxRAPAABkCNmRem6lVeuGE3hqHOHnhATwxKon7dkFp18GrK-l7jyygeh1_mkHvaLXCGq_5W012Fsh7C3WhaI8WvDfxWJsNa5hvszWUW4KXbGP7dwFbyV2Z3YHGFT7Q7f4XNeVG_mifRqhFk3DSP7xpFFBTLVi4JQD-Ndv5OJ2auSt5jKxBkhgjLO7oQ4LFnx719y2Lb6vl68wpezVRW" style="animation-delay: 2.2s;"/>
+<img alt="Visual 10" class="floating-tile w-36 h-60 bottom-[0%] right-[30%] animate-float" src="https://lh3.googleusercontent.com/aida-public/AB6AXuB6pCJP-n8m9JrjoPabt4rpqA9JrIR5sk78XVTdQykjEwrN_lZLt56weueh6ZlWwoxiwGJ7A8g8M0gCpjhxciNlIugUhbSJVoJsHviuvxLuOZd2BM5wh6qWs1iA4mGGdtgE_mOSKalCd0qnSLEahZceQ20Z_fbsoqAPWiGolV_zjuOBOGD134NjuOL0E_X95jcxvZm1ZtxQW0wnIKpIDeQMTP2WR4kLT-YpdCbtZTeICVlwE45qh4kFCm6D_I4p14H60ih4j2sxXVwX" style="animation-delay: 0.8s;"/>
+</div>
+<!-- Hero Text Content -->
+<div class="relative z-10 text-center px-4 max-w-4xl mx-auto flex flex-col items-center">
+<div class="mb-8 inline-flex items-center space-x-2 bg-[#1a1a1a] border border-gray-800 px-4 py-2 rounded-full cursor-pointer hover:bg-gray-800 transition-colors group">
+<span class="text-xs font-semibold uppercase tracking-wider text-gray-300">Announcing our AI Video Suite</span>
+<svg class="w-3 h-3 text-gray-500 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M9 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
+</div>
+<h1 class="text-6xl md:text-8xl font-bold tracking-tight mb-6 animate-fade-in-up">
+        Crave <br class="md:hidden"/> Perfection.
+      </h1>
+<p class="text-xl md:text-2xl text-gray-400 font-light mb-12 max-w-xl mx-auto" id="hero-subtext">
+        The canvas for your imagination. Enhance, upscale, and transform visuals with next-gen AI.
+      </p>
+<div class="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4" style="transition-delay: 0.2s;">
+<button class="px-10 py-4 bg-white text-black font-bold rounded-full text-lg hover:scale-105 transition-transform active:scale-95">
+          Start Enhancing
+        </button>
+</div>
+</div>
+</main>
+<!-- END: Hero Section -->
+<!-- BEGIN: Scrolling Grid Section -->
+<section class="py-32 px-6 max-w-7xl mx-auto will-change-transform" id="content-section">
+<div class="grid grid-cols-2 md:grid-cols-4 gap-6" id="media-grid">
+<!-- Media Items with different heights for Pinterest-style look -->
+<div class="space-y-6">
+<div class="aspect-[3/4] bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCIY_02ntXNsoJlZ0o5MKXNaMAvk6hiGPvQCcpa8zEQK42TV7nE5FCPf5aV4fo4Ai6VPa7dPxNtnkNzkGMSiGCJ_rPG73GA1qGsR6edtH1WN-fFelNpl-mdt5QYrH94HNLIrHsUfoqGwxhFQ9j-Vgj4yxl48z302JchMY7EL7fWpNyc3PgVw27Uvq4fs-SKFNzg2R1Rdq3XYPhlD2w4Mqu3KiydrgAKzNlNbQ68GJK6Wy0NUJYTYUsWlR_f9Eq-wDobNIpSfbQQKsyg"/>
+</div>
+<div class="aspect-square bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBGWq0BPvGpH-jmv72TDbnj1AEf0v9V75cXRCc8cE281y74VsinmUkVfSlnFe98suDH-EdpUBmJdNJmAlqRuBBVO4KrUSDUQwpMnqewTLut3MvBtU9ahBQJO9h90Qcw5ZY4OfdPPjhLUV6BAEKFd5j_DdYOAXvB23wb8qri7OHuIhZSy-ePvEax1uRkkfKKqNWsMDjotIGuTvH4jlXmT-znSrKDWDVPsaCe9uOnwj3gxUN9_mc5Gv7eerWrIjTNyZdZSHa1anwyDW6D"/>
+</div>
+</div>
+<div class="space-y-6 pt-12" style="transition-delay: 0.1s;">
+<div class="aspect-square bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBrzVGoiQYTsuOiFgb4oXvI1cYnww8wl-Z619-ckXpawD7inBy5h0MrnluXjifgRZSgYi1rUfIEQI8STScXBv_Er5tUZs6hUOTcV21v8n0KKiYP8iwEVoylsxHi3KLIoR0WvZSYJeam6mQnyv9Mln3b8Zwsgm6ARcXOI-3gEyC-YT9sUckXOIhk8Ua6tMb77k3vXk-X0XYL92p5XgALE_ePAdbfP2PNYanJVu_9c4-x7EqQ6V6FCNr-3zdlptOXmK8hR78VcdFD2-J4"/>
+</div>
+<div class="aspect-[2/3] bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDFkxT5yOkMeIG2dvfe1WREVCqlLj7jMfjyKbh5krNgdLcYAumCJoFTqlG5ranvlVPgjBhXyaC721-k7AO6HmSGrBhYRBJQUy6sEU0gcrQa4ITk9srmEwQ-ixUyh2O8_hP4K3kJN_d_5bTAYa2c8cbXRE88ISxtaXYdO4pZb8H4_Xcz2VngYb5iLWags-TPknVyOGS9V3WEprAP-K1rpO_RaRu4iUq3nk1eCxqq5xnmaIG8o3Hator3zFU-i-trGGQMzHF78vVl8Xmy"/>
+</div>
+</div>
+<div class="space-y-6" style="transition-delay: 0.2s;">
+<div class="aspect-[4/5] bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuA4TynMzZZ-_uYpW4gR83fS8xBUUXRYSEPTe0Edc_OPJWrBXieJAsUg7oW4HBXhlT7dTPWR3CkL2jprrUqSQ01DsHQOtH8-0UyfB3k9nV1JKyXYhdPLPt3gRVESvfTZXJIYKfpPSwhGsxnfnyVEZfr4eIR-K7_dDXtWkNRwEuMtV7-Fr1eROyEJ1PohiVnYNW4okAMadgYosfW0in-byZSTRM33_EVrTki4JxzIt8oYcKPOlbgxQUHgDrBeGqBYRp0b2UEotHiwxjs_"/>
+</div>
+<div class="aspect-square bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuBzSiR-E-4ekCgGISye6wwUVtb44CL7lPE6gvXNnzYixAXVK1aQGvrIe7R57hsD2K70qPePBBMEbpnr-iEqpjtyrzq16BLKw-WDBszQA0eXqbaZv8YJ0jUjo7owNFkJXObdTqorUIvoXKbBf2_XN48TvqEP88GoYAW7aaRC3uNwMuXMexZybaR6ld7ENXMeeYj3_mOxl5dof01L2z3ZfrX0UxWfW2b4fL96lY_5Z9AIagFSwJhzqvnkQAhUBplMkeOifaBkoVs3BRJl"/>
+</div>
+</div>
+<div class="space-y-6 pt-16" style="transition-delay: 0.3s;">
+<div class="aspect-square bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCEnMf8JfQkXGvu_tYK4ig0cG2QbmkxjIIL2RywbPXH0it_8HZ0fKBsk0nNjYL1Yw59q3mpPhelpzFBZReZ7BAtKBTj8JfzOsxfaFlTzZ1OC9uoFGyzkkeYanmvkQCqjC3JcKZ61lTgmNTuuS0T0-x6Aej50BMxYENA7RKNVal1VvxIhmzsirr6g3ndbgNGo0UrXskfboM2RBKJXUNJEUAaTZTRTCp7V_oqZdQgEKCCyQ_kPC2BWiYnENAME1JCWJtWmP4IRWgRzDZ0"/>
+</div>
+<div class="aspect-[3/4] bg-neutral-900 rounded-2xl overflow-hidden">
+<img alt="AI Work" class="w-full h-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDezaLVO0cOG-JW7iweMzJWBoPHmR8REC5fmD-IISOUmA7B4_DSjLbY6QhsddELZ1-ziS8GsjWiG9uTZWeFdrJRLjGhETKoq_3QBa98t6VPkcx0DcQvo9VGVDdQ9UlJeL9zZ0mOUqOefNO_kPoz9xkadNAlmA_8jLzdgmxtYYALum-7zmBQ_3DAmEaHeu5rUo3ddldygDePi_LszbAhCu5TJcsmydZSdBf-njzk76FJvuS_4Ovue813kksATh-ZvB11ZrjhaZ6pN2_k"/>
+</div>
+</div>
+</div>
+</section>
+<!-- END: Scrolling Grid Section -->
+<!-- BEGIN: Footer -->
+<footer class="py-20 border-t border-neutral-900 px-6 text-center">
+<div class="mb-10">
+<h3 class="text-3xl font-bold mb-4">Ready to create?</h3>
+<p class="text-gray-400 mb-8">Join thousands of creators pushing the boundaries of media.</p>
+<button class="bg-brand text-white px-8 py-3 rounded-full font-bold hover:opacity-90 transition-opacity">Get Started for Free</button>
+</div>
+<div class="flex flex-wrap justify-center gap-8 text-sm text-gray-500">
+<a class="hover:text-white" href="#">Privacy</a>
+<a class="hover:text-white" href="#">Terms</a>
+<a class="hover:text-white" href="#">Twitter</a>
+<a class="hover:text-white" href="#">Instagram</a>
+<a class="hover:text-white" href="#">Contact</a>
+</div>
+<div class="mt-12 text-xs text-gray-600">
+      © 2024 Crave Mode AI. All rights reserved.
+    </div>
+</footer>
+<!-- END: Footer -->
+<script data-purpose="parallax-effect">
+    // Subtle parallax for background tiles based on mouse movement
+    document.addEventListener('mousemove', (e) => {
+      const container = document.getElementById('parallax-container');
+      if (!container) return;
+      
+      const mouseX = e.clientX / window.innerWidth;
+      const mouseY = e.clientY / window.innerHeight;
+      
+      const tiles = container.querySelectorAll('.floating-tile');
+      tiles.forEach((tile, index) => {
+        const speed = (index + 1) * 10;
+        const x = (mouseX - 0.5) * speed;
+        const y = (mouseY - 0.5) * speed;
+        tile.style.transform = `translate(${x}px, ${y}px)`;
+      });
+    });
+  </script>
+<script>
+    gsap.registerPlugin(ScrollTrigger);
+
+    // Blow up effect for the Hero section content
+    const heroTl = gsap.timeline({
+      scrollTrigger: {
+        trigger: "#hero-section",
+        start: "top top",
+        end: "bottom top",
+        scrub: true,
+        pin: true,
+        pinSpacing: false
+      }
+    });
+
+    heroTl.to("#hero-section .relative.z-10", {
+      scale: 3,
+      opacity: 0,
+      ease: "power1.in"
+    }, 0);
+
+    heroTl.to("#parallax-container", {
+      scale: 2.5,
+      opacity: 0,
+      ease: "power1.in"
+    }, 0);
+
+    // Entering effect for the Media Grid
+    const gridTl = gsap.timeline({
+      scrollTrigger: {
+        trigger: "#content-section",
+        start: "top bottom",
+        end: "top center",
+        scrub: true
+      }
+    });
+
+    gridTl.from("#content-section", {
+      scale: 0.8,
+      opacity: 0,
+      y: 100,
+      ease: "power2.out"
+    });
+  </script></body></html>
